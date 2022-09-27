@@ -14,7 +14,7 @@ This repository provides a collection of resources and recordings to help you ge
 
 ## Alteryx
 
-[Introduction to Alterxy - ACCTG 320 Recording](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7054cae9-6362-422d-a2aa-adb60127d0eb0)
+[Introduction to Alterxy - ACCTG 320 Recording](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7054cae9-6362-422d-a2aa-adb60127d0eb)
 
 **Note:** *Work in progress.*
 
