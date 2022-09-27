@@ -6,16 +6,17 @@ This repository provides a collection of resources and recordings to help you ge
 
 **Note:** Only available to students enrolled in the Foster School of Business.
 
-<iframe src="https://uw.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d721afd0-5677-4865-8e9b-adb60127d1d3&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+(Introduction to the Foster Remote Lab - ACCTG 320 Recording)[https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d721afd0-5677-4865-8e9b-adb60127d1d3]
+
 
 ## Alteryx
 
-<iframe src="https://uw.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=7054cae9-6362-422d-a2aa-adb60127d0eb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+(Introduction to Alterxy - ACCTG 320 Recording)[https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7054cae9-6362-422d-a2aa-adb60127d0eb]
 
 **Note:** Work in progress.
 
 ## Tableau
 
-<iframe src="https://uw.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=8b1c2997-8062-4b94-9800-adb60127d061&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+(Introduction to Tableau - ACCTG 320 Recording)[https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b1c2997-8062-4b94-9800-adb60127d061]
 
 **Note:** Work in progress.
