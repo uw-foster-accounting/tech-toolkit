@@ -24,3 +24,15 @@ This repository provides a collection of resources and recordings to help you ge
 [Introduction to Tableau - ACCTG 320 Recording](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b1c2997-8062-4b94-9800-adb60127d061)
 
 **Note:** *Work in progress.*
+
+----
+
+## UIPath
+
+**Note:** *Work in progress, check back later.*
+
+----
+
+## Python
+
+**Note:** *Work in progress, check back later.*
