@@ -8,22 +8,23 @@ This repository provides a collection of resources and recordings to help you ge
 
 **Note:** Only available to students enrolled in the Foster School of Business.
 
-[Introduction to the Foster Remote Lab - ACCTG 320 Recording](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d721afd0-5677-4865-8e9b-adb60127d1d3)
+- [Introduction to the Foster Remote Lab](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b6085b1-02b9-4b67-a8d4-af800007a29e)
+- [Foster Remote Lab - In class demonstration - ACCTG 320](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8157691b-fb9c-4be8-ab77-af800008397a)
 
 ----
 
 ## Alteryx
 
-[Introduction to Alterxy - ACCTG 320 Recording](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7054cae9-6362-422d-a2aa-adb60127d0eb)
-
-**Note:** *Work in progress.*
+- [Introduction to Alteryx](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2b69c4c-05ea-45e7-81c4-af800007a225)
+- [Alteryx - Basics - In class demonstration - ACCTG 320](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=728b744b-24f9-4025-b117-af80001289b3)
 
 ----
 
 ## Tableau
-[Introduction to Tableau - ACCTG 320 Recording](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b1c2997-8062-4b94-9800-adb60127d061)
 
-**Note:** *Work in progress.*
+- [Introduction to Tableau](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe50c7f0-4908-47a4-92e5-af800007a245)
+- [Tableau - Basics - In class demonstration - ACCTG 320](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9f3260a-af0b-49e5-978a-af800008865e)
+- [	Tableau - Advanced - In class demonstration - ACCTG 320](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60dd8207-6b1c-4ec0-b5b5-af80000b4280)
 
 ----
 
